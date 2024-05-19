@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Home page</h1>;
+    return <a href="https://www.youtube.com/">Home page</a>;
 }
 
 export default Home;
